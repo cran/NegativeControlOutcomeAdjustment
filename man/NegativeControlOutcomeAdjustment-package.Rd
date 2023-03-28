@@ -38,7 +38,8 @@ If W is null (i.e. there are no data on measured strata), the Joint-NC method ca
 \author{Lola Etievant, Mitchell H. Gail, Joshua N Sampson}
 \keyword{package}
 \references{
-Etievant, L., Sampson, J.N., Gail, M.H. (2021). Increasing efficiency and reducing bias when
- assessing HPV vaccination efficacy by using non-targeted HPV strains.  Biometrics, in revision.
+Etievant, L., Sampson, J.N., Gail, M.H. (2022). Increasing efficiency and reducing bias when
+ assessing HPV vaccination efficacy by using nontargeted HPV strains.  
+ Biometrics. 1-12. https://doi.org/10.1111/biom.13663
 }
 
