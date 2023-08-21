@@ -1,7 +1,7 @@
 Package: NegativeControlOutcomeAdjustment
 Title: Estimation of Vaccine Efficacy using Negative Control Outcomes
-Version: 0.0.5
-Date: 2023-03-28
+Version: 0.0.6
+Date: 2023-08-18
 Authors@R: c(person("Lola", "Etievant", role="aut", email="lola.etievant@nih.gov"),
              person(c("Mitchell", "H."), "Gail", role="aut", email="gailm@exchange.nih.gov"),
              person(c("Joshua", "N."), "Sampson", role="aut", email="joshua.sampson@fda.hhs.gov"),
@@ -10,11 +10,11 @@ Description: Methods to reduce confounding bias from unmeasured confounders in o
 Depends: R (>= 3.5.0)
 License: GPL-2
 NeedsCompilation: no
-Packaged: 2023-03-28 13:25:26 UTC; wheelerwi
+Packaged: 2023-08-18 20:18:08 UTC; wheelerwi
 Author: Lola Etievant [aut],
   Mitchell H. Gail [aut],
   Joshua N. Sampson [aut],
   Bill Wheeler [cre]
 Maintainer: Bill Wheeler <wheelerb@imsweb.com>
 Repository: CRAN
-Date/Publication: 2023-03-28 17:20:02 UTC
+Date/Publication: 2023-08-21 13:50:07 UTC

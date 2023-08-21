@@ -1,6 +1,7 @@
 
 \name{NegativeControlOutcomeAdjustment-package}
 \alias{NegativeControlOutcomeAdjustment}
+\alias{NegativeControlOutcomeAdjustment-package}
 \docType{package}
 \title{
   Estimation of Vaccine Efficacy using Negative Control Outcomes

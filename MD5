@@ -1,8 +1,8 @@
-e8fa2f29d87e5b2ff3f159637f8fc561 *DESCRIPTION
+3c73f35ee1cbe866db6faea519902095 *DESCRIPTION
 7f60aeb8d024e4a4cee06e49360f3f9f *NAMESPACE
 985e1e0197c52e2f6685d7c361d1a280 *R/Functions.R
 967da1b44fc5ad1893fae7593bd4b121 *R/source.R
 45665b7addada59a877a11b9fb8bff64 *data/data.rda
-e087f79b654bcf68fcd0931f5b77373b *man/NegativeControlOutcomeAdjustment-package.Rd
+150db2dd8da32ce92adabd957e403785 *man/NegativeControlOutcomeAdjustment-package.Rd
 b010de80425d0efa261d8696145ff7a2 *man/data.Rd
 b48079dfb385f7b32e17d6a9c8d0503f *man/negativecontroladjustment.Rd
